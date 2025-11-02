@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.yosemite.hnsm.HNSWTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-11-02T12:47:40.129Z" hostname="Vishals-MacBook-Pro.local" time="0.062">
+<testsuite name="com.yosemite.hnsm.HNSWTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-11-02T12:50:00.704Z" hostname="Vishals-MacBook-Pro.local" time="0.059">
   <properties/>
-  <testcase name="testSearchWithRequest" classname="com.yosemite.hnsm.HNSWTest" time="0.007"/>
-  <testcase name="testVectorCosineSimilarityMismatchedDimensions" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
+  <testcase name="testSearchWithRequest" classname="com.yosemite.hnsm.HNSWTest" time="0.006"/>
+  <testcase name="testVectorCosineSimilarityMismatchedDimensions" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
   <testcase name="testInsertAndSearch" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorId" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSingleVectorSearch" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testSingleVectorSearch" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testSearchResultComparable" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSearchEmpty" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
+  <testcase name="testSearchEmpty" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
   <testcase name="testVectorDataCopy" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorCosineSimilarityZeroVector" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorDimension" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSearchResultToString" classname="com.yosemite.hnsm.HNSWTest" time="0.006"/>
+  <testcase name="testSearchResultToString" classname="com.yosemite.hnsm.HNSWTest" time="0.007"/>
   <testcase name="testSearchRequestDefaultMaxSearchDepth" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testSearchRequestValidation" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
-  <testcase name="testVectorCosineSimilarity" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testLargeDataset" classname="com.yosemite.hnsm.HNSWTest" time="0.032"/>
-  <testcase name="testDuplicateInsert" classname="com.yosemite.hnsm.HNSWTest" time="0.002"/>
+  <testcase name="testVectorCosineSimilarity" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testLargeDataset" classname="com.yosemite.hnsm.HNSWTest" time="0.028"/>
+  <testcase name="testDuplicateInsert" classname="com.yosemite.hnsm.HNSWTest" time="0.003"/>
   <testcase name="testVectorDistanceMismatchedDimensions" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
   <testcase name="testHNSWContains" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
   <testcase name="testVectorCosineSimilarityOpposite" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorCosineSimilarityOrthogonal" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSearchResultsAreDistinct" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSearchRequestToString" classname="com.yosemite.hnsm.HNSWTest" time="0.006"/>
-  <testcase name="testMultipleInsertionsWithDifferentLevels" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
+  <testcase name="testSearchResultsAreDistinct" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testSearchRequestToString" classname="com.yosemite.hnsm.HNSWTest" time="0.005"/>
+  <testcase name="testMultipleInsertionsWithDifferentLevels" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
   <testcase name="testVectorDistance" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testSearchMoreResultsThanAvailable" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testNodeConnections" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
