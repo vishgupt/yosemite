@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.yosemite.hnsm.HNSWTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-11-02T11:53:32.197Z" hostname="Vishals-MacBook-Pro.local" time="0.063">
+<testsuite name="com.yosemite.hnsm.HNSWTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-11-02T12:47:40.129Z" hostname="Vishals-MacBook-Pro.local" time="0.062">
   <properties/>
-  <testcase name="testSearchWithRequest" classname="com.yosemite.hnsm.HNSWTest" time="0.006"/>
-  <testcase name="testVectorCosineSimilarityMismatchedDimensions" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testSearchWithRequest" classname="com.yosemite.hnsm.HNSWTest" time="0.007"/>
+  <testcase name="testVectorCosineSimilarityMismatchedDimensions" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testInsertAndSearch" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorId" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSingleVectorSearch" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
+  <testcase name="testSingleVectorSearch" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
   <testcase name="testSearchResultComparable" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testSearchEmpty" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testVectorDataCopy" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testVectorDataCopy" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorCosineSimilarityZeroVector" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorDimension" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSearchResultToString" classname="com.yosemite.hnsm.HNSWTest" time="0.007"/>
+  <testcase name="testSearchResultToString" classname="com.yosemite.hnsm.HNSWTest" time="0.006"/>
   <testcase name="testSearchRequestDefaultMaxSearchDepth" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSearchRequestValidation" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testVectorCosineSimilarity" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
-  <testcase name="testLargeDataset" classname="com.yosemite.hnsm.HNSWTest" time="0.03"/>
-  <testcase name="testDuplicateInsert" classname="com.yosemite.hnsm.HNSWTest" time="0.003"/>
-  <testcase name="testVectorDistanceMismatchedDimensions" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
+  <testcase name="testSearchRequestValidation" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testVectorCosineSimilarity" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
+  <testcase name="testLargeDataset" classname="com.yosemite.hnsm.HNSWTest" time="0.032"/>
+  <testcase name="testDuplicateInsert" classname="com.yosemite.hnsm.HNSWTest" time="0.002"/>
+  <testcase name="testVectorDistanceMismatchedDimensions" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
   <testcase name="testHNSWContains" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
   <testcase name="testVectorCosineSimilarityOpposite" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorCosineSimilarityOrthogonal" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSearchResultsAreDistinct" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testSearchResultsAreDistinct" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testSearchRequestToString" classname="com.yosemite.hnsm.HNSWTest" time="0.006"/>
-  <testcase name="testMultipleInsertionsWithDifferentLevels" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testMultipleInsertionsWithDifferentLevels" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testVectorDistance" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
-  <testcase name="testSearchMoreResultsThanAvailable" classname="com.yosemite.hnsm.HNSWTest" time="0.001"/>
+  <testcase name="testSearchMoreResultsThanAvailable" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <testcase name="testNodeConnections" classname="com.yosemite.hnsm.HNSWTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
